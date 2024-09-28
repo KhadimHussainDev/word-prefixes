@@ -1,0 +1,36 @@
+{
+	"name": "word-prefixes",
+	"version": "1.0.1",
+	"description": "This package returns all the prefixes of a given word.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KhadimHussainDev/word-prefixes.git"
+	},
+	"keywords": [
+		"word",
+		"prefix",
+		"word-prefixes",
+		"string manipulation",
+		"substring",
+		"word processing",
+		"text utility",
+		"string utility",
+		"javascript utility",
+		"word breakdown",
+		"text prefixes",
+		"substring generator",
+		"prefix generator",
+		"text parsing",
+		"npm word utility"
+	],
+	"author": "KhadimHussainDev",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/KhadimHussainDev/word-prefixes/issues"
+	},
+	"homepage": "https://github.com/KhadimHussainDev/word-prefixes#readme"
+}
